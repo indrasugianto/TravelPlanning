@@ -1,6 +1,8 @@
 # Japan Trip Plan (Latest) — 4 Adults
 *(Apr 11–17; hotels booked; food-heavy + second-hand luxury; Ghibli + Kyoto day trip + Narita Omotesando)*
 
+> **Updated with official-source checks as of Jan 2026.** Timetables/prices can change—confirm day-of in your map app / station signs.
+
 ---
 
 ## Key Assumptions / Open Questions (Fill These In)
@@ -186,9 +188,19 @@
 ## What to Reserve in Advance (with links)
 > **Links are in code blocks** so you can copy/paste easily.
 
-### 1) Ghibli Museum (timed entry)
+### 0) Visit Japan Web (immigration + customs QR)
+```text
+https://services.digital.go.jp/en/visit-japan-web/
+```
+
+### 1) Ghibli Museum (timed entry; advance reservation only)
+- Official page says **all admission is by advance reservation only**; **no tickets sold at the museum**.
+- Official page says overseas tickets are sold via **LAWSON TICKET** and go on sale **10:00 a.m. (JST) on the 10th** for the **following month**.
 ```text
 https://www.ghibli-museum.jp/en/tickets/
+
+# Lawson Ticket (English) entry (from the official Ghibli tickets page)
+https://l-tike.com/st1/ghibli-en/Tt/Ttg010agreement/index
 ```
 
 ### 2) Shinkansen reservations (Tokyo↔Shin-Osaka + Kyoto day + Shin-Osaka→Tokyo area)
@@ -198,15 +210,17 @@ https://smart-ex.jp/en/
 ```
 
 ### 3) Narita Express (N’EX) reserved seats
-JR East Train Reservation
+JR East Train Reservation (Eki-Net)
 ```text
 https://www.eki-net.com/en/jreast-train-reservation/
 ```
+*(If you can’t access the site from your network/device, you can also buy N’EX tickets at Narita via ticket office / reserved-seat machines.)*
 
 ### 4) Kintetsu Limited Express (optional)
 *(Only if you choose Limited Express; regular Kintetsu trains don’t require reservations.)*
+- Kintetsu’s site notes the online purchase is for the **Limited Express ticket**; you also need the **base fare ticket** separately.
 ```text
-https://www.ticket.kintetsu.co.jp/vs/en/
+https://www.ticket.kintetsu.co.jp/vs/en/T/TZZ/TZZ10.do?op=tDisplayVisitorMenu
 ```
 
 ---
