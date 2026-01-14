@@ -231,7 +231,15 @@ https://l-tike.com/st1/ghibli-en/Tt/Ttg010agreement/index
 ```
 
 ### 2) Shinkansen reservations (Tokyo↔Shin-Osaka + Kyoto day + Shin-Osaka→Tokyo area)
-**SmartEX (recommended)**
+**SmartEX (Official App/Site)**
+- **When to Book:** Exactly **1 month before** ride date at 10:00 AM JST.
+  - *Apr 13 Ride:* Book on **Mar 13**.
+  - *Apr 16 Ride:* Book on **Mar 16**.
+- **Seating Strategy (4 People):**
+  - **Ordinary Car (3-2 layout):** Book **Row X (Seats A,B)** and **Row X+1 (Seats A,B)**. Spin the seats to face each other.
+  - **Green Car (2-2 layout):** Book **Row X (Seats C,D)** and **Row X+1 (Seats C,D)**.
+- **Luggage:** Ensure you select "Seat with Oversized Baggage Area" if bringing large suitcases.
+
 ```text
 https://smart-ex.jp/en/
 ```
