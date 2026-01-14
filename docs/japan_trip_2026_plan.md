@@ -5,6 +5,15 @@
 
 ---
 
+## 🆕 2026 Travel Updates (Crucial Checks)
+- **Tax-Free Shopping**: The new "pay upfront, refund at airport" system is slated for **Nov 2026**. For your April trip, the **old system (instant discount at register)** should still apply. Bring passports!
+- **Departure Tax**: A hike from ¥1,000 to ~¥3,000 is proposed for mid/late 2026. You likely beat this, but check your flight receipt closer to the date.
+- **Accommodation Tax**: Kyoto is increasing hotel taxes (starting Mar 2026). Expect to pay a small per-night fee (¥200–¥1,000/person) at check-in/out if you stay in Kyoto city.
+- **Shinkansen Luggage**: **Strictly enforced**. If your bag is **>160cm** (length+width+height), you **MUST** reserve the "Oversized Baggage" seat row (last row of car). No reservation = ¥1,000 fine + bag moved.
+- **New Attractions**: **PokéPark Kanto** opens Feb 2026 (Yomiuriland, Tokyo) if you are interested.
+
+---
+
 ## Key Assumptions / Open Questions (Fill These In)
 - **Flights**: arrival time to NRT on **Apr 11** + departure time from NRT on **Apr 17** (drives buffer + when to leave hotel).
 - **Phones**: confirm each adult has an **iPhone that supports Suica**; if not, plan **physical IC card + cash**.
@@ -46,7 +55,7 @@
 **Plan to meet and go together**
 1) **Meet at NRT Terminal 2 Arrivals Hall** (choose one landmark: info counter / main arrivals exit).
 2) Go to **Airport Limousine Bus Counter** (Arrivals floor).
-3) Buy tickets for **Keio Plaza Hotel / Shinjuku Area**.
+3) Buy tickets for **Keio Plaza Hotel / Shinjuku Area** (~¥3,600/person).
 4) Board bus at designated stop (staff will handle luggage).
 5) Arrive **Keio Plaza Hotel** (Door-to-door drop off).
 
@@ -101,9 +110,9 @@
 
 ### **Sun Apr 13 — Tokyo → Shin-Osaka (Courtyard) + Namba/Dotonbori**
 1) Move: **Shinjuku → Shinagawa Station**
-   - **Option A (Train)**: Walk to Shinjuku Stn + JR Yamanote Line (~40 min total, ~¥200 pp). Crowded with luggage.
+   - **Option A (Train)**: Walk to Shinjuku Stn + JR Yamanote Line (~40 min total, ~¥210 pp). Crowded with luggage.
    - **Option B (Taxi)**: Door-to-door from Keio Plaza → Shinagawa Stn (~25–35 min, ~¥3,500–¥4,500 total / ~¥1,000 pp). **Recommended for 4 pax + luggage.**
-2) Shinkansen: **Shinagawa → Shin-Osaka**
+2) Shinkansen: **Shinagawa → Shin-Osaka** (Nozomi Reserved: ~¥14,920 pp)
 3) Walk to hotel (station-adjacent)
 4) Osaka Metro Midosuji: **Shin-Osaka → Namba** for food night
 
@@ -139,7 +148,7 @@
 ### **Tue Apr 15 — Kyoto Day Trip (Your Must-Visits)**
 **Order (efficient + crowd-smart):** **Fushimi Inari → Gion → Nishiki Market**
 
-1) Shinkansen: **Shin-Osaka → Kyoto**
+1) Shinkansen: **Shin-Osaka → Kyoto** (~¥1,450 non-reserved / ~¥3,000 reserved)
 2) Move: **Kyoto Station → Inari Station** (Fushimi Inari)
    - **Option A (Train)**: JR Nara Line (~5 min ride + walk, ¥150 pp). Fast/cheap.
    - **Option B (Taxi)**: Kyoto Stn Hachijo Exit → Inari (~10–15 min, ~¥1,500 total / ¥375 pp). Drops closer to main gate.
@@ -164,25 +173,29 @@
 
 ---
 
-### **Wed Apr 16 — Osaka → Narita + Drop Luggage + Naritasan Omotesando (3 people)**
-1) Shinkansen: **Shin-Osaka → Shinagawa**
-2) N’EX: **Shinagawa → Narita Airport**
-3) Hotel shuttle: **NRT → ANA Crowne Plaza Narita**
-   - **Alternative**: Taxi (~10 min, ~¥2,000) if you miss the shuttle.
-4) Drop luggage / check in
-5) Hotel shuttle: **Hotel → Narita Station (Downtown)**
-6) Walk **Narita Omotesando → Naritasan Shinshoji**
-7) Return to hotel (shuttle back or taxi)
+### **Wed Apr 16 — Osaka → Narita (Deadline: 14:00 Arrival) + Omotesando**
+**Goal:** Arrive NRT by 14:00 (for 17:00 US flight).
+1) **09:00–09:30** Shinkansen: **Shin-Osaka → Shinagawa** (Nozomi Reserved: ~¥14,920 pp)
+   - *Target: Nozomi departing ~09:15, arriving Shinagawa ~11:35.*
+2) **~12:00** N’EX: **Shinagawa → Narita Airport** (~¥3,070 pp)
+   - *Target: N'EX departing ~11:50 or 12:20, arriving NRT ~13:00–13:30.*
+3) **At Airport (13:30–14:00)**:
+   - **Person Flying (US)**: Check-in for 17:00 flight.
+   - **Others (3 pax)**: Hotel shuttle **NRT → ANA Crowne Plaza**.
+4) Drop luggage at hotel / check in.
+5) Hotel shuttle: **Hotel → Narita Station** for Omotesando walk + Dinner.
+6) Return to hotel.
 
 **Transit durations (ride + avg wait)**
 - Shinkansen Shin-Osaka→Shinagawa: **~140 min + ~15 wait**
 - N’EX Shinagawa→NRT: **~75 min + ~20 wait**
 - Hotel shuttle NRT→hotel: **~15–25 min + ~10–20 wait**
 - Downtown shuttle hotel↔Narita Station (if used): **~15–25 min + ~10–20 wait** (each way)
-**Transit total to hotel (from Osaka):** ~**4h** (excluding airport time)  
+**Transit total to hotel (from Osaka):** ~**4h** (excluding airport time)
 **Add Omotesando outing transit:** ~**1h** round trip (plus walking + dinner)
 
 **Notes**
+- **Strict Timing:** To be safe for the 17:00 flight, do **not** leave Shin-Osaka later than **09:30**.
 - Confirm **shuttle timetable** (airport ↔ hotel ↔ downtown) so you don’t strand the group in Narita.
 - Add a simple plan for the 4th person if only 3 go out (rest, onsen/relax, or meet later for dinner).
 
@@ -207,7 +220,9 @@ https://services.digital.go.jp/en/visit-japan-web/
 
 ### 1) Ghibli Museum (timed entry; advance reservation only)
 - Official page says **all admission is by advance reservation only**; **no tickets sold at the museum**.
-- Official page says overseas tickets are sold via **LAWSON TICKET** and go on sale **10:00 a.m. (JST) on the 10th** for the **following month**.
+- **Sale Date**: **March 10, 2026** at 10:00 AM JST (for April entry).
+- **Price**: ¥1,000 (Adults).
+- Official page says overseas tickets are sold via **LAWSON TICKET**.
 ```text
 https://www.ghibli-museum.jp/en/tickets/
 
@@ -290,33 +305,38 @@ https://www.google.com/maps/search/?api=1&query=Naritasan+Shinshoji
 ---
 
 ## YouTube “Visualize the Ride” Links (search links)
+> **Pro Tip:** Watch these to understand the platform flow and luggage space.
+
 ```text
-Airport Limousine Bus Narita to Hotel:
-https://www.youtube.com/results?search_query=Airport+Limousine+Bus+Narita+to+Shinjuku
+# CRITICAL: Japan Travel Updates 2026 (Watch Before Packing)
+https://www.youtube.com/watch?v=MqHtQN8Fudg
 
-JR Chuo Line Rapid Shinjuku to Kichijoji:
-https://www.youtube.com/results?search_query=JR+Chuo+Line+Rapid+Shinjuku+to+Kichijoji
+# 1. Airport Limousine Bus (Narita -> Hotel)
+https://www.youtube.com/results?search_query=Airport+Limousine+Bus+Narita+to+Shinjuku+view+2025
 
-Kichijoji taxi stand (Japanese):
+# 2. JR Chuo Line Rapid (Shinjuku -> Kichijoji)
+https://www.youtube.com/results?search_query=JR+Chuo+Line+Rapid+Shinjuku+to+Kichijoji+view
+
+# 3. Kichijoji Taxi Stand (Visual Guide)
 https://www.youtube.com/results?search_query=%E5%90%89%E7%A5%A5%E5%AF%BA%E9%A7%85+%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC+%E4%B9%97%E3%82%8A%E5%A0%B4
 
-Shinkansen Tokyo/Shinagawa to Shin-Osaka full ride:
-https://www.youtube.com/results?search_query=Shinkansen+Shinagawa+to+Shin-Osaka+Nozomi+ride
+# 4. Shinkansen (Shinagawa -> Shin-Osaka) - Full Ride View
+https://www.youtube.com/results?search_query=Shinkansen+Shinagawa+to+Shin-Osaka+Nozomi+ride+2025
 
-Osaka Metro Midosuji Line Shin-Osaka to Namba:
-https://www.youtube.com/results?search_query=Osaka+Metro+Midosuji+Line+Shin-Osaka+to+Namba
+# 5. Osaka Metro Midosuji Line (Shin-Osaka -> Namba)
+https://www.youtube.com/results?search_query=Osaka+Metro+Midosuji+Line+Shin-Osaka+to+Namba+walk
 
-Kintetsu Osaka-Namba to Nara:
-https://www.youtube.com/results?search_query=Kintetsu+Osaka+Namba+to+Nara+train+ride
+# 6. Kintetsu Limited Express (Namba -> Nara)
+https://www.youtube.com/results?search_query=Kintetsu+Osaka+Namba+to+Nara+express+train+ride
 
-Shin-Osaka to Kyoto Shinkansen:
+# 7. Shin-Osaka to Kyoto Shinkansen (Quick hop)
 https://www.youtube.com/results?search_query=Shin-Osaka+to+Kyoto+Shinkansen+ride
 
-Kyoto Station to Fushimi Inari JR Nara Line:
-https://www.youtube.com/results?search_query=Kyoto+Station+to+Inari+Station+JR+Nara+Line
+# 8. Kyoto Station to Fushimi Inari (JR Nara Line)
+https://www.youtube.com/results?search_query=Kyoto+Station+to+Inari+Station+JR+Nara+Line+view
 
-Narita Omotesando walking:
-https://www.youtube.com/results?search_query=Naritasan+Omotesando+walk
+# 9. Narita Omotesando Walk
+https://www.youtube.com/results?search_query=Naritasan+Omotesando+walk+4k+2025
 ```
 
 ---
