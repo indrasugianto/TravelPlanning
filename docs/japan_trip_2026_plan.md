@@ -15,7 +15,7 @@
 ---
 
 ## Hotels (Booked)
-- **Apr 11–13:** JR-EAST HOTEL METS SHIBUYA (Tokyo)
+- **Apr 11–13:** Keio Plaza Hotel Tokyo (Shinjuku)
 - **Apr 13–16:** Courtyard Shin-Osaka Station (Osaka base)
 - **Apr 16–17:** ANA Crowne Plaza Narita (Narita overnight)
 
@@ -34,31 +34,38 @@
 - Shinkansen: **~10–15 min**
 - Taxi queue: **~5 min**
 
+### Taxi vs Train (Cost for 4 people)
+- **General Rule**: For short hops (<5km), Taxi is ~¥1,500–¥2,500. Split by 4, it's ~¥400–¥600/person (comparable to or slightly more than train, but saves walking).
+- **Keio Plaza → Shinagawa Station**: ~¥3,500–¥4,500 total (~¥1,000/person). Saves hauling luggage on Yamanote line.
+
 ---
 
 ## Itinerary (with transportation + duration estimates)
 
-### **Fri Apr 11 — Arrive Narita → Meet → Shibuya (Hotel Mets)**
+### **Fri Apr 11 — Arrive Narita → Meet → Shinjuku (Keio Plaza)**
 **Plan to meet and go together**
 1) **Meet at NRT Terminal 2 Arrivals Hall** (choose one landmark: info counter / main arrivals exit).
-2) Walk to **Narita Airport Terminal 2·3 Station**
-3) Take **Narita Express (N’EX) → Shibuya**
-4) Walk to **JR-EAST HOTEL METS SHIBUYA** (New South Gate area)
+2) Go to **Airport Limousine Bus Counter** (Arrivals floor).
+3) Buy tickets for **Keio Plaza Hotel / Shinjuku Area**.
+4) Board bus at designated stop (staff will handle luggage).
+5) Arrive **Keio Plaza Hotel** (Door-to-door drop off).
 
 **Transit durations (ride + avg wait)**
-- N’EX (NRT T2·3 → Shibuya): **~85 min + ~15 min wait**
-- Walk Shibuya Station → hotel: **~5–10 min**
-**Transit total:** ~**1h 45m–2h 10m** (not incl. immigration/bags)
+- Limousine Bus (NRT → Keio Plaza): **~85–110 min** (traffic dependent)
+- Walking: **0 min** (direct drop)
+**Transit total:** ~**2h** (relaxed, no hauling bags)
 
 **Notes**
-- Add a **realistic arrival buffer**: immigration + bags + regrouping can be **60–120 min** depending on time/lines.
-- If people arrive on different flights: set a **hard meet time** + a **fallback** (“we’ll meet at hotel lobby by X”).
+- **Limousine Bus** is much easier than trains with luggage. No navigating huge stations.
+- Add a **realistic arrival buffer**: immigration + bags + regrouping can be **60–120 min**.
 
 ---
 
 ### **Sat Apr 12 — Ghibli 10:00 (≤2 hrs) + Kichijoji lunch + Shinjuku + Ginza**
 #### **To Ghibli (train + taxi mix)**
-- **8:15** Leave hotel → Shibuya Station  
+- **8:15** Leave hotel → Shibuya Station
+  - **Taxi option**: ~20 min direct from Keio Plaza to Shibuya Station (~¥2,500 total / ¥625 pp). Saves Shinjuku station walk/train.
+  - **Train option**: Walk to Shinjuku Stn + Yamanote Line (~¥170 pp).
 - **8:30** **Keio Inokashira Line** Shibuya → **Kichijoji**
 - **~8:50** Arrive Kichijoji → go to **Taxi stand** (follow “タクシー”)
 - Taxi Kichijoji → **Ghibli Museum**
@@ -93,16 +100,18 @@
 ---
 
 ### **Sun Apr 13 — Tokyo → Shin-Osaka (Courtyard) + Namba/Dotonbori**
-1) JR: **Shibuya → Shinagawa**
+1) Move: **Shinjuku → Shinagawa Station**
+   - **Option A (Train)**: Walk to Shinjuku Stn + JR Yamanote Line (~40 min total, ~¥200 pp). Crowded with luggage.
+   - **Option B (Taxi)**: Door-to-door from Keio Plaza → Shinagawa Stn (~25–35 min, ~¥3,500–¥4,500 total / ~¥1,000 pp). **Recommended for 4 pax + luggage.**
 2) Shinkansen: **Shinagawa → Shin-Osaka**
 3) Walk to hotel (station-adjacent)
 4) Osaka Metro Midosuji: **Shin-Osaka → Namba** for food night
 
 **Transit durations**
-- JR Shibuya→Shinagawa: **~13 min + ~6 wait**
+- JR Shinjuku→Shinagawa: **~20 min + ~5 wait**
 - Shinkansen Shinagawa→Shin-Osaka: **~140 min + ~15 wait**
 - Midosuji Shin-Osaka→Namba: **~15 min + ~5 wait**
-**Transit total:** ~**3h 10m–3h 30m**
+**Transit total:** ~**3h 20m**
 
 **Notes**
 - Decide whether to reserve seats together vs buy day-of. With 4 adults + luggage, **reserved seats** reduce hassle.
@@ -131,7 +140,9 @@
 **Order (efficient + crowd-smart):** **Fushimi Inari → Gion → Nishiki Market**
 
 1) Shinkansen: **Shin-Osaka → Kyoto**
-2) JR Nara Line: **Kyoto Station → Inari Station** (Fushimi Inari)
+2) Move: **Kyoto Station → Inari Station** (Fushimi Inari)
+   - **Option A (Train)**: JR Nara Line (~5 min ride + walk, ¥150 pp). Fast/cheap.
+   - **Option B (Taxi)**: Kyoto Stn Hachijo Exit → Inari (~10–15 min, ~¥1,500 total / ¥375 pp). Drops closer to main gate.
 3) Move **Inari → Gion**
    - Option A (rail): **Keihan** + short walks
    - Option B (taxi): fastest / simplest for 4 people
@@ -157,6 +168,7 @@
 1) Shinkansen: **Shin-Osaka → Shinagawa**
 2) N’EX: **Shinagawa → Narita Airport**
 3) Hotel shuttle: **NRT → ANA Crowne Plaza Narita**
+   - **Alternative**: Taxi (~10 min, ~¥2,000) if you miss the shuttle.
 4) Drop luggage / check in
 5) Hotel shuttle: **Hotel → Narita Station (Downtown)**
 6) Walk **Narita Omotesando → Naritasan Shinshoji**
@@ -177,7 +189,7 @@
 ---
 
 ### **Thu Apr 17 — ANA Crowne Plaza Narita → Narita Airport**
-- Hotel shuttle back to airport
+- Hotel shuttle back to airport (or Taxi ~¥2,000 for convenience)
 
 **Transit durations**
 - Shuttle: **~15–25 min + ~10–20 wait**
@@ -209,13 +221,12 @@ https://l-tike.com/st1/ghibli-en/Tt/Ttg010agreement/index
 https://smart-ex.jp/en/
 ```
 
-### 3) Narita Express (N’EX) reserved seats
-JR East Train Reservation (Eki-Net)
+### 3) Airport Limousine Bus (NRT → Keio Plaza)
+- **No reservation needed usually**, but can buy at airport counter.
+- If you want to book ahead (optional):
 ```text
-https://www.eki-net.com/en/jreast-train-reservation/
+https://webservice.limousinebus.co.jp/web/en/
 ```
-*(If you can’t access the site from your network/device, you can also buy N’EX tickets at Narita via ticket office / reserved-seat machines.)*
-
 ### 4) Kintetsu Limited Express (optional)
 *(Only if you choose Limited Express; regular Kintetsu trains don’t require reservations.)*
 - Kintetsu’s site notes the online purchase is for the **Limited Express ticket**; you also need the **base fare ticket** separately.
@@ -233,8 +244,8 @@ https://www.ticket.kintetsu.co.jp/vs/en/T/TZZ/TZZ10.do?op=tDisplayVisitorMenu
 
 ## Google Maps Quick Links (copy/paste)
 ```text
-JR-EAST HOTEL METS SHIBUYA:
-https://www.google.com/maps/search/?api=1&query=JR-EAST+HOTEL+METS+SHIBUYA
+Keio Plaza Hotel Tokyo:
+https://www.google.com/maps/search/?api=1&query=Keio+Plaza+Hotel+Tokyo
 
 Ghibli Museum:
 https://www.google.com/maps/search/?api=1&query=Ghibli+Museum+Mitaka
@@ -280,11 +291,11 @@ https://www.google.com/maps/search/?api=1&query=Naritasan+Shinshoji
 
 ## YouTube “Visualize the Ride” Links (search links)
 ```text
-N’EX Narita Airport to Shibuya:
-https://www.youtube.com/results?search_query=Narita+Express+Narita+Airport+to+Shibuya
+Airport Limousine Bus Narita to Hotel:
+https://www.youtube.com/results?search_query=Airport+Limousine+Bus+Narita+to+Shinjuku
 
-Keio Inokashira Line Shibuya to Kichijoji:
-https://www.youtube.com/results?search_query=Keio+Inokashira+Line+Shibuya+to+Kichijoji+train+ride
+JR Chuo Line Rapid Shinjuku to Kichijoji:
+https://www.youtube.com/results?search_query=JR+Chuo+Line+Rapid+Shinjuku+to+Kichijoji
 
 Kichijoji taxi stand (Japanese):
 https://www.youtube.com/results?search_query=%E5%90%89%E7%A5%A5%E5%AF%BA%E9%A7%85+%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC+%E4%B9%97%E3%82%8A%E5%A0%B4
